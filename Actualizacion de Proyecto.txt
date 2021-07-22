@@ -700,7 +700,7 @@ VALUES (2,35000,70,2000,11,3,DATE_SUB(NOW(),INTERVAL 9 MONTH),3);
 INSERT INTO horas_rendidas(id_proyecto,horas,horas_semanales,horas_mensuales,horas_dia,id_cliente,fecha,id_participante)
 VALUES (3,17000,45,2500,5,3,DATE_SUB(NOW(),INTERVAL 10 MONTH),5);
 INSERT INTO horas_rendidas(id_proyecto,horas,horas_semanales,horas_mensuales,horas_dia,id_cliente,fecha,id_participante)
-VALUES (4,25000,52,1700,,6,DATE_SUB(NOW(),INTERVAL 11 MONTH),22);
+VALUES (4,25000,52,1700,3,6,DATE_SUB(NOW(),INTERVAL 11 MONTH),22);
 INSERT INTO horas_rendidas(id_proyecto,horas,horas_semanales,horas_mensuales,horas_dia,id_cliente,fecha,id_participante)
 VALUES (5,330000,57,2300,7,8,DATE_SUB(NOW(),INTERVAL 33 MONTH),17);
 INSERT INTO horas_rendidas(id_proyecto,horas,horas_semanales,horas_mensuales,horas_dia,id_cliente,fecha,id_participante)
